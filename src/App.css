@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.list-group li
+{
+  margin-top:10px;
+  cursor: grab;
+}
+.list-group li span
+{
+  cursor: pointer;
+}
